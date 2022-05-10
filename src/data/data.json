@@ -1,0 +1,94 @@
+[
+    {
+    "name":"Milk",
+    "description":"good for bones and strength so needed in our life",
+    "id":0,
+    "price":5,
+    "amount":1,
+    "group":"milk",
+    "picture":"https://th.bing.com/th/id/R.96c07635579bb3b46a0ab614bbc60908?rik=V%2fITVW5YU8X%2bbg&riu=http%3a%2f%2fbm-moloko.ru%2fwp-content%2fuploads%2f2017%2f08%2fMoloko-1.jpg&ehk=2R7tC1oWF4WR9C3XpoIrKWmi%2bZYrQJScVyVR5zFn0Ic%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+    "name":"Water",
+    "description":"water is always the best drink",
+    "id":1,
+    "price":3,
+    "amount":1,
+    "group":"drinks",
+    "picture":"https://th.bing.com/th/id/OIP.sBOjLhPyz209w2To8PT1ewHaGa?w=182&h=158&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    },
+    {
+    "name":"Honey",
+    "description":"spring honey collected by bees from chamomile and linden",
+    "id":2,
+    "price":12,
+    "amount":1,
+    "group":"sweets",
+    "picture":"https://th.bing.com/th/id/OIP.4pDN2Vv4SH5dfZfvcSQA4QHaHa?w=191&h=191&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    },
+    {
+        "name":"Bread",
+        "description":"just bread",
+        "id":3,
+        "price":3,
+        "amount":1,
+        "group":"bread",
+        "picture":"https://jooinn.com/images/bread-78.jpg"
+        },
+        {
+            "name":"Sausages",
+            "description":"just sausages",
+            "id":4,
+            "price":15,
+            "amount":1,
+            "group":"meat",
+            "picture":"https://avatars.mds.yandex.net/get-zen_doc/1591747/pub_5ce98befc64ffc00b2400e21_5cea277b5ee93800b37fd989/scale_1200"
+            },
+            {
+                "name":"Ham",
+                "description":"just ham",
+                "id":5,
+                "price":11,
+                "amount":1,
+                "group":"meat",
+                "picture":"https://img.huffingtonpost.com/asset/57e5288c1b00002e00ef1a92.jpeg?cache=IJfPGnEQZf&amp;ops=1778_1000"
+                },
+                {
+                    "name":"Eggs",
+                    "description":"just eggs",
+                    "id":6,
+                    "price":8,
+                    "amount":1,
+                    "group":"milk",
+                    "picture":"https://avatars.mds.yandex.net/i?id=e9c54b63b1c3e36ed2213c939e13f7ad-5233432-images-thumbs&ref=rim&n=33&w=218&h=150"
+                    },
+                    {
+                        "name":"Chocolate",
+                        "description":"just chocolate",
+                        "id":7,
+                        "price":6,
+                        "amount":1,
+                        "group":"sweets",
+                        "picture":"https://catherineasquithgallery.com/uploads/posts/2021-02/1612369808_8-p-skachat-shokolad-na-prozrachnom-fone-13.jpg"
+                        },
+                        {
+                            "name":"Salmon",
+                            "description":"just salmon",
+                            "id":8,
+                            "price":14,
+                            "amount":1,
+                            "group":"fish",
+                            "picture":"https://images.eatthismuch.com/site_media/img/3334_erin_m_60a4068c-ac48-4f3a-841d-77fe4a86cd51.png"
+                            },
+                            {
+                                "name":"cheese",
+                                "description":"just cheese",
+                                "id":9,
+                                "price":9,
+                                "amount":1,
+                                "group":"milk",
+                                "picture":"https://thumbs.dreamstime.com/b/ломти-сыра-на-белизне-стог-ломтей-белой-предпосылке-144687689.jpg"
+                                }
+    
+    
+    ]

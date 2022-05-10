@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+.menu{
+    display: flex;
+    height: 100px;
+    width:100%;
+    justify-content: space-around;
+    background-color:rgba(57, 110, 13, 0.938);
+    align-items: baseline;
+  
+  }
+  
+  
+  .search{
+      width:30px;
+  }
+ 

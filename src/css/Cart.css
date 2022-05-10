@@ -1,0 +1,49 @@
+@import '~antd/dist/antd.css';
+
+
+
+.item {
+    width: 1050px;
+
+
+}
+
+img {
+    width: 40px;
+    height: 75px;
+    margin-right: 0;
+
+}
+
+Button {
+    width: 100px;
+    height: 40;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.input-count {
+    width: 100px;
+    margin-left: 20px;
+}
+
+.input-price {
+    width: 200px;
+    margin-left: 20px;
+}
+
+
+.item-name {
+    margin-left: 20px;
+    width: 300px
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+.image {
+    width: 45px;
+    height: 45px;
+}
